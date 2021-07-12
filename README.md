@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YTICS
+- 👋 Hi, I’m @Ytics
 - 👀 I’m interested in Analytics
 - 🌱 I’m currently learning Orange...
 - 💞️ Imagine Analytics without me !!!!.
